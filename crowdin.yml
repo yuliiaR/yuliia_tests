@@ -1,7 +1,4 @@
 files:
   - source: sample(source).xml
     translation: /translations/%two_letters_code%/sample(translations).xml
-    translate_content: '0'
-    translate_attributes: '0'
-    content_segmentation: '0'
-"update_option" : "update_without_changes"
+    "update_option" : "update_without_changes"
