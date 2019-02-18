@@ -1,4 +1,0 @@
-files:
-  - source: sample(source).xml
-    translation: /translations/%two_letters_code%/sample(translations).xml
-    "update_option" : "update_without_changes"
