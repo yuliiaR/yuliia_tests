@@ -3,6 +3,6 @@
 <resources>
   <string name="demo">How it works?</string>
   <string name="settings.sound.static">дзвінок</string>
-  <string name="demo">Contact us</string>
+  <string name="demo">зв\'яжіться з нами!</string>
   <string name="demo">log in</string>
 </resources>
