@@ -1,6 +1,6 @@
 preserve_hierarchy: false
 files:
-  - source: /test/sample(source).xml
+  - source: /test/source.xml
     translation: /test_translations/%two_letters_code%/sample(translations).xml
     update_option: update_without_changes
     languages_mapping:
