@@ -1,3 +1,5 @@
+"preserve_hierarchy": false
+
 files:
   - source: sample(source).xml
     translation: /test_translations/%two_letters_code%/sample(translations).xml
