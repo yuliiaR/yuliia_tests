@@ -1,4 +1,4 @@
-"preserve_hierarchy": false
+preserve_hierarchy: false
 
 files:
   - source: sample(source).xml
