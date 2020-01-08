@@ -1,0 +1,9 @@
+preserve_hierarchy: false
+files:
+  - source: /test/source.xml
+    translation: /test_translations/%two_letters_code%/sample(translations).xml
+    update_option: update_without_changes
+    languages_mapping:
+      two_letters_code:
+        zh-CN: zh_cmn_hans
+        zh-TW: zh_cmn_hant
