@@ -1,5 +1,9 @@
-files: 
-  - source: /src/main/resources/*_en.properties
-    translation: /src/main/resources/%file_name%_%two_letters_code%.%file_extension%
-    translation_replace: 
-      _en: ""
+"files": [
+{
+  "source": "/src/main/resources/*_en.properties",
+  "translation": "/src/main/resources/%file_name%_%two_letters_code%.%file_extension%",
+  "translation_replace": {
+    "_en": ""
+  }
+}
+]
