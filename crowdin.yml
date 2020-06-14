@@ -1,5 +1,6 @@
 files:
   - source: /test/*.xml
     translation: /src/main/resources/%file_name%_%two_letters_code%.%file_extension%
-    translation_replace:
-      _en: ''
+    languages_mapping:
+      two_letters_code:
+        el: gr
