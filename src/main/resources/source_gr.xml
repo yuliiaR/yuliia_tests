@@ -5,4 +5,5 @@
   <string name="settings.sound.static">Pricing</string>
   <string name="demo">Contact us</string>
   <string name="demo">log in</string>
+  <string name="test">test string crowdin</string>
 </resources>
