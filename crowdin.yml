@@ -1,4 +1,4 @@
 files:
   - source: /test/*.csv
-    translation: /translations/%original_file_name%
+    translation: translations/%original_file_name%
     scheme: 'identifier,source_phrase,context,uk,ru,fr'
