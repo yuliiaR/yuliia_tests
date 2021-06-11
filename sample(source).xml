@@ -3,6 +3,7 @@
 <resources>
   <string name="demo">How it works?</string>
   <string name="settings.sound.static">Pricing</string>
-  <string name="demo">Contact us</string>
+  <string name="demgho">Contact us</string>
   <string name="demo">log in</string>
+  <string name="demhjho">log in</string>
 </resources>
